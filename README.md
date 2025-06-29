@@ -1,2 +1,2 @@
 # Sprint7
-Conjunto de datos de anuncios de venta de coches
+Conjunto de datos de anuncios de venta de coches que sirve como comprador puede usar el gráfico de dispersión para identificar coches con buen precio según su kilometraje, mientras que un vendedor podría usar el histograma para fijar precios competitivos según la oferta disponible.
